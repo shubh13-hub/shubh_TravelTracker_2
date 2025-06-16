@@ -1,7 +1,7 @@
 # shubh_TravelTracker_2
 🌍 Family Tracker
 
-This Project is the Advanced version of my initial Travel Tracker Project which shows rendered visited Countries of a single user.The Advance version allows families to collaboratively track their global adventures.
+This Project is the Advanced version of my initial Travel Tracker Project which rendered visited Countries of a single user.The Advance version allows families to collaboratively track their global adventures.
 
 Family Tracker is a web-based application that allows families to collaboratively track their global adventures. Each family member can be added to the map, assigned a unique color, and have their visited countries shaded accordingly—making it easy to visualize travel histories and shared experiences.
 
